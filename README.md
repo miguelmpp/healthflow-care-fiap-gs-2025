@@ -424,6 +424,3 @@ Quando a API externa responde corretamente, `dicaExterna` traz um conselho em in
    * Usuário padrão: `SA` (sem senha, se assim configurado em `application.properties`).
 
 
-
-::contentReference[oaicite:0]{index=0}
-```
