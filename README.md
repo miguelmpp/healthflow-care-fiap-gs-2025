@@ -18,6 +18,8 @@ e gerando um **resumo de bem-estar** com **recomendações enriquecidas por uma 
 
 - **Matheus Farias – RM 554254**
 - **Miguel Parrado – RM 554007**
+- **Gabriel Leão – RM 552642**
+- **Vitor Pinheiro – RM 553693**
 
 ---
 
