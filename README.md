@@ -128,7 +128,6 @@ Para enriquecer o cenário do **Futuro do Trabalho** com recomendações de bem-
       "advice": "Alguma dica em inglês..."
     }
   }
-````
 
 Uso na aplicação:
 
